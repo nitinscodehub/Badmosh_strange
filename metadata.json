@@ -1,0 +1,9 @@
+{
+  "name": "Badmosh Strange",
+  "description": "Real-time hand-tracking AR experience with cinematic mystical energy effects and voice-activated spells.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
